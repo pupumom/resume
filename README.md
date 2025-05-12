@@ -33,7 +33,7 @@
 
 ---
 
-### 🔹 [수영복 리뷰 기반 사이즈 추천 모델](https://github.com/yeongdecember/swimwear-review-ml)
+### 🔹 [수영복 리뷰 기반 사이즈 추천 모델](진행 중)
 - Selenium으로 리뷰 크롤링 → 키, 몸무게, 사이즈 전처리
 - 사이즈 예측 분류모델(Random Forest 등) 성능 비교
 - 실사용자 리뷰 기반 추천 알고리즘 구축 실험
@@ -41,9 +41,7 @@
 ---
 
 ## 🗂 기타 포트폴리오
-- [🌿 생성형 AI 트렌드 분석 (진행 중)](https://github.com/yeongdecember/generative-ai-trend)
-- [📺 유튜브 댓글 기반 이탈 예측 & 고객 세그먼트](#)
-- [🔗 전체 프로젝트 보기 - GitHub](https://github.com/yeongdecember?tab=repositories)
+- [🔗 전체 프로젝트 보기 - GitHub](https://github.com/pupumom?tab=repositories)
 
 ---
 
@@ -51,7 +49,7 @@
 
 - Email: yeongdecember@gmail.com  
 - Blog: [Velog @yeongdecember](https://velog.io/@yeongdecember)  
-- GitHub: [github.com/yeongdecember](https://github.com/pupumom)
+- GitHub: [github.com/pupumom](https://github.com/pupumom)
 
 ---
 
