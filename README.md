@@ -18,9 +18,9 @@
 
 ## Featured Projects
 
-### [수영복 리뷰 기반 사이즈 추천 모델]
+### [수영복 리뷰 기반 사이즈 추천 모델](https://github.com/pupumom/swim_fit_predictor)
 - Selenium으로 리뷰 크롤링 → 키, 몸무게, 사이즈 전처리
-- 사이즈 예측 분류모델(Random Forest 등) 성능 비교
+- 사이즈 예측 분류모델(LGBM, Logistic Regression, Random Forest, XGBoost 등) 성능 비교
 - 실사용자 리뷰 기반 추천 알고리즘 구축 실험
 
 ---
